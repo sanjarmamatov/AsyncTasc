@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Documents\AUCA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\User\Documents\AUCA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf2a0a483c5668b5af87a9ae680e74d18a75dce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\Documents\AUCA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b83f5ccf2ca53110057a36cb155111366eb1bba">
+        <dex dex="C:\Users\User\Documents\AUCA\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65a834e955672ee184c3b9f9ee0904abe7a5de22\classes.dex" />
+    </item>
+
+</items>
